@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as f:## it gives the description o
 
 __version__ = "0.0.0"
 
-REPO_NAME = "cnnClassifier" # from git hub repository
+REPO_NAME = "cnnClassifier"  # from git hub repository
 AUTHOR_USER_NAME = "Subash7Lingden" ## gitHub username
 SRC_REPO = "cnnClassifier" # from src folder
 AUTHO_EMAIL = "subashsubbalingden@gmail.com"
